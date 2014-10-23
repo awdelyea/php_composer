@@ -16,7 +16,7 @@ This docker container expects the following file structure:
 ## Installation
 
 ```sh
-docker build -t adelyea/php_composer git://github.com/adelyea/php_composer
+docker build -t adelyea/php_composer git://github.com/awdelyea/php_composer
 ```
 
 ## How To Use
